@@ -1,5 +1,5 @@
-# How_to_GitHub
-A high-level tutorial for setting up and using GitHub, and Jupyter Notebooks.
+# How to GitHub
+This is a high-level tutorial for setting up and using GitHub, and Jupyter Notebooks.
 
 ### The Objectives
 - Introduce [GitHub](https://github.com/) and some terminology
@@ -33,9 +33,9 @@ one at that. First let's start with some basic definitions:
 - Pull Request -a mechanism for a developer to notify team members that they have completed a feature.
 - Merge - takes the changes from one branch (in the same repository or from a fork), and applies them into another.
   
-### The Tutorial(s)
+### [The Tutorials](/Tutorials/)
 Now that we have gone over the basics, let's look at the tutorials:
-- Creating a GitHub account
-- Setting up Git, GitHub Desktop, and an IDE on your computer
-- Creating a repository (or, "repo"), pushing to GitHub with GitHub Desktop
+- [Creating a GitHub account](/Tutorials/1_Creating_GitHub_Account.ipynb)
+- [Setting up Git, GitHub Desktop, and an IDE on your computer](/Tutorials/2_Setting_Up_Your_Environment.ipynb)
+- [Creating a repository (or, "repo"), pushing to GitHub with GitHub Desktop](/Tutorials/3_Creating_A_Repo.ipynb)
 
