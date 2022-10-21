@@ -35,7 +35,9 @@ one at that. First let's start with some basic definitions:
   
 ### [The Tutorials](/Tutorials/)
 Now that we have gone over the basics, let's look at the tutorials:
+- [Rules and Things to Know (NOAA-specific)](/Tutorials/0_Rules_&&_Things_to_Know.ipynb)
 - [Creating a GitHub account](/Tutorials/1_Creating_GitHub_Account.ipynb)
 - [Setting up Git, GitHub Desktop, and an IDE on your computer](/Tutorials/2_Setting_Up_Your_Environment.ipynb)
 - [Creating a repository (or, "repo"), pushing to GitHub with GitHub Desktop](/Tutorials/3_Creating_A_Repo.ipynb)
+- [Transferring a repo to the Organization account](/Tutorials/4_Transfer_to_Organization.ipynb)
 
