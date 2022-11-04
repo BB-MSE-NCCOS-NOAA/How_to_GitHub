@@ -8,10 +8,15 @@ This is a high-level tutorial for setting up and using GitHub, and Jupyter Noteb
 - Create our first [Jupyter Notebook](https://jupyter.org/) and [Google Colab](https://colab.research.google.com/) (supports Python and R)
 - Make our first commit, and push to a repo on our work GitHub account
 - Move a repo from our work GitHub account to the Organizational account
-  
-This repository is meant to serve as a simple tutorial for using GitHub. If you
-have not used GitHub before, do not fret, it's a pretty simple tool, but a powerful 
-one at that. First let's start with some basic definitions:
+
+
+If you have not used GitHub before, do not fret, it's a pretty simple tool, but a powerful 
+one at that. For those who regularly use RStudio, the extensive tutorial 
+series: ["Happy Git and GitHub for the useR"](https://happygitwithr.com/index.html), 
+by Jenny Bryan and Jim Hester has been recommended multiple times, 
+definitely check it out!
+
+Let's start with some basic definitions!
 
 ### The Ecosystem
 - Git - installed on your computer; it allows groups of developers to collaborate on the same documents (often source code) simultaneously and without overriding each other’s work.
