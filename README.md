@@ -10,10 +10,9 @@ This is a high-level tutorial for setting up and using GitHub, and Jupyter Noteb
 - Move a repo from our work GitHub account to the Organizational account
 
 
-This repository is meant to serve as a simple tutorial for using GitHub. If you
-have not used GitHub before, do not fret, it's a pretty simple tool, but a powerful 
+If you have not used GitHub before, do not fret, it's a pretty simple tool, but a powerful 
 one at that. For those who regularly use RStudio, the extensive tutorial 
-series:["Happy Git and GitHub for the useR"](https://happygitwithr.com/index.html), 
+series: ["Happy Git and GitHub for the useR"](https://happygitwithr.com/index.html), 
 by Jenny Bryan and Jim Hester has been recommended multiple times, 
 definitely check it out!
 
