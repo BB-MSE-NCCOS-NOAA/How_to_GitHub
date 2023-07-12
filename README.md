@@ -46,6 +46,12 @@ Now that we have gone over the basics, let's look at the tutorials:
 - [Creating a repository (or, "repo"), pushing to GitHub with GitHub Desktop](/Tutorials/3_Creating_A_Repo.ipynb)
 - [Transferring a repo to the Organization account](/Tutorials/4_Transfer_to_Organization.ipynb)
 
+In addition, it is highly recommended that you watch these tutorial videos to help get a high-level understanding:
+- [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
+- [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+- [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
+
+
 # Legal Disclaimer
 This repository is a software product and is not official communication of the National Oceanic and Atmospheric Administration (NOAA), or the United States Department of Commerce (DOC). All NOAA GitHub project code is provided on an 'as is' basis and the user assumes responsibility for its use. Any claims against the DOC or DOC bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation, or favoring by the DOC. The DOC seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by the DOC or the United States Government.
 
